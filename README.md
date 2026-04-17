@@ -53,13 +53,13 @@ Content Writing (E-book on Self Growth)
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/amit-tiwari-6b2a4b3b0">
+  <a href="https://www.linkedin.com/in/ayush-kumar-792973276/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/amittiwari998454">
+  <a href="https://www.instagram.com/_ayyusshhh._/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="mailto:amittiwari227817@gmail.com">
+  <a href="mailto:ayushkumar4aug2005@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
@@ -68,11 +68,11 @@ Content Writing (E-book on Self Growth)
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amit-Tiwari0&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Tiwari0&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushhhh-h&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushhhh-h&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔥 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amit-Tiwari0&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushhhh-h&theme=tokyo-night" />
