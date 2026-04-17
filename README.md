@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amit Tiwari</h1>
-<h3 align="center">🚀 CSE Student | Web Developer | AI/ML Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Ayush kumar</h1>
+<h3 align="center">🚀 CSE Student | AI/ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Amit-Tiwari0"><img src="https://komarev.com/ghpvc/?username=Amit-Tiwari0&label=Profile%20views&color=0e75b6&style=flat" /></a>
@@ -8,11 +8,9 @@
 ---
 
 ## 🧠 About Me
-- 💻 Software Development Intern at **Gautam Buddha University**
-- 🌱 Currently learning **React, PHP, Java**
-- 🔭 Skilled in **Web Development & Data Management**
-- 🤖 Interested in **AI/ML & modern web technologies**
-- 👥 Strong background in **Team Leadership & Coordination**
+• Python for Data Analysis and Machine Learning  
+• Data Structures & Algorithms (C++)  
+• Core concepts of Statistics, AI, and Problem Solving  
 
 ---
 
@@ -23,13 +21,22 @@
 ---
 
 ## 💼 Experience
-- 💻 **Web Development & Data Management Intern**  
-  📍 Gautam Buddha University (Hybrid)  
-  🗓️ Jan 2026 – Present  
-
-- 🤝 **Volunteer Experience**
-  - 🎯 Ignition Techfest – Student Coordinator  
-  - 🙌 Nidar – Volunteer  
+Data Science Project
+-Worked on data analysis and machine learning projects using Python
+-Performed data cleaning, visualization using Pandas, Matplotlib
+-Built basic ML models (Linear Regression, Classification)
+-Gained hands-on experience in real-world datasets (Kaggle / open
+ datasets)
+Software Development Trainee
+-Practicing Data Structures & Algorithms using C++
+-Built small projects (calculator, basic apps, etc.)
+-Strengthened coding skills and logical thinking
+Content Writing (E-book on Self Growth)
+-Created and published a self-growth eBook targeting student
+-productivity and mindset
+-Conducted research on personal development topics and applied
+ insights into writing
+ Enhanced written communication and content structuring skills
 
 ---
 
@@ -37,8 +44,10 @@
 - 🎓 **B.Tech – Computer Science**  
   Gautam Buddha University (2025 – Present)
 
+- 🎓 **BS in Data Science**
+  IIT Madras(2025-Present)
 - 🏫 **Matriculation & Intermediate**  
-  Kendriya Vidyalaya (2012 – 2024)
+  City Montessori School (2019– 2024)
 
 ---
 
